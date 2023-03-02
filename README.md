@@ -7,6 +7,8 @@ https://github.com/vega/vega/blob/main/docs/data/weather.csv?fbclid=IwAR3jcck1Ui
 
 The main objective of this project is to find out which model was the most accurate. 
 
+!{overall one] (img/overall.png)
+
 
 ## Tools
 - KNIME
