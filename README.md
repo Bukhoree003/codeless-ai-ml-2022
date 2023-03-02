@@ -26,3 +26,12 @@ The main objective of this project is to find out which model was the most accur
 Our dataset is in the .CSV format, we must use the CSV reader node to access it.
 
 ![csv reader](img/csv.png)
+
+for the location column it come with string type. we change it into date.
+
+![string date](img/stringtodate.png)
+
+then we change date to ID.
+
+![date id](img/rowid.png)
+
