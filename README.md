@@ -13,3 +13,15 @@ The main objective of this project is to find out which model was the most accur
 ## Tools
 - KNIME
 
+##Columns
+- Location
+- Date
+- Precipitation
+- Temp_max
+- Temp_min
+- Wind
+- Weather
+
+## Methods
+Our dataset is in the .CSV format, we must use the CSV reader node to access it.
+![csv reader](img/csv.png)
