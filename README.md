@@ -35,3 +35,23 @@ then we change date to ID.
 
 ![date id](img/rowid.png)
 
+this node will show the data of location which have 2 location is seattle and newyork.
+
+![two location](img/locaion.png)
+
+![location barchart](img/barchartlocation.png)
+
+and this node will show the average of wind. the average wind is 3.8
+
+![wind average node](img/wind.png)
+
+![wind box plot](img/boxplotwind.png)
+
+and this node will show the average of precipitation. which is 1.8
+
+![precipitation node](img/precipitation.png)
+
+![precipitation box plot](img/boxplotprecipitation.png)
+
+
+
