@@ -37,7 +37,7 @@ then we change date to ID.
 
 this node will show the data of location which have 2 location is seattle and newyork.
 
-![two location](img/locaion.png)
+![location two](img/location.png)
 
 ![location barchart](img/barchartlocation.png)
 
