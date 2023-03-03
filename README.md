@@ -54,7 +54,7 @@ and this node will show the average of precipitation. which is 1.8
 ![precipitation box plot](img/boxplotprecipitation.png)
 
 
-We specify the data to make it easier to analyze. we use row filter and column filter to select just one location (Newwork).....
+We specify the data to make it easier to analyze. we use row filter and column filter to select just one location (Newyork).....
 
 
 
