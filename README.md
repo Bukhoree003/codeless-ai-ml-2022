@@ -13,7 +13,7 @@ The main objective of this project is to find out which model was the most accur
 ## Tools
 - KNIME
 
-##Columns
+## Columns
 - Location
 - Date
 - Precipitation
