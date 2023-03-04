@@ -64,9 +64,9 @@ We use 3 model to see wich model is the best for our data. Decision tree learner
 
 The best accuracy is 84.642%. It's Tree ensemble learner model.
 
-##Conclusion
+## Conclusion
 In this project, We used KNIME to determine which machine learning model is the most suitable to be used for the provided dataset.
 
-##Author
+## Author
 Bukhoree Sohprajin - 631431003
 Walif Mamu - 631431012
