@@ -54,7 +54,19 @@ and this node will show the average of precipitation. which is 1.8
 ![precipitation box plot](img/boxplotprecipitation.png)
 
 
-We specify the data to make it easier to analyze. we use row filter and column filter to select just one location (Newyork).....
+We specify the data to make it easier to analyze. we use row filter and column filter to select just one location (New york). then we divided the data  into 80% and 20%. 80% percent for training and 20% for testing. 
 
+![test result](img/testing.png)
 
+We use 3 model to see wich model is the best for our data. Decision tree learner, Ramdom forest learner, Tree ensemble learner. 
 
+![score test](img/bestmodel.png)
+
+The best accuracy is 84.642%. It's Tree ensemble learner model.
+
+##Conclusion
+In this project, We used KNIME to determine which machine learning model is the most suitable to be used for the provided dataset.
+
+##Author
+Bukhoree Sohprajin - 631431003
+Walif Mamu - 631431012
